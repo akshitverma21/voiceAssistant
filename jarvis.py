@@ -26,7 +26,7 @@ def wishMe():
         speak("Good Afternoon!")
     else:
         speak("Good Evening!")
-    speak("I am gangan   ")
+    speak("I am Jarvis   ")
 
 def takeCommand():
     ''' takes audio from user and returns string output '''
